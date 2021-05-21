@@ -70,6 +70,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>String Data Type</td>
       <td>Introduction to String Data Type</td>
     </tr>
+    <tr>
+      <td>12</td>
+      <td>Operators, Operands and Expressions</td>
+      <td>Introduction to Operators, Operands and Expressions</td>
+    </tr>
     
     
     
