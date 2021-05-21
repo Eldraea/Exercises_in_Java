@@ -3,7 +3,7 @@ main.java
 ---------------------------------
 Created by Eldr@e@
 ---------------------------------
-Introduction to Logical Operators
+Introduction to Logical Operator And
 ---------------------------------
 Created on : 21/05/2021
 ---------------------------------
