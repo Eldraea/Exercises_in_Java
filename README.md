@@ -68,7 +68,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>11</td>
       <td>String Data Type</td>
-      <td>Introduction to CString Data Type</td>
+      <td>Introduction to String Data Type</td>
     </tr>
     
     
