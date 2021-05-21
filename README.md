@@ -90,6 +90,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Logical and Operators</td>
       <td>Introduction to the Logical Operator: AND</td>
     </tr>
+     <tr>
+      <td>16</td>
+      <td>Logical OR Operator</td>
+      <td>Introduction to the Logical Operator: OR</td>
+    </tr>
     
     
     
