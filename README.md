@@ -78,7 +78,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>13</td>
       <td>Abbreviating Operators</td>
-      <td>A programs that shows to abbreviate operators</td>
+      <td>A program that shows to abbreviate operators</td>
     </tr>
     
     
