@@ -88,7 +88,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>15</td>
       <td>Logical and Operators</td>
-      <td>Introduction to Logical Operators</td>
+      <td>Introduction to the Logical Operator: AND</td>
     </tr>
     
     
