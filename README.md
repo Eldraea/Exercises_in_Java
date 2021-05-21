@@ -10,7 +10,7 @@ A big thank you to Tim Buchalka (Udemy)
   <thead>
     <tr>
        <th>id</th>
-       <th>Exercice</th>
+       <th>Exercise</th>
        <th>Description</th>
     </tr>
   </thead>
