@@ -75,6 +75,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Operators, Operands and Expressions</td>
       <td>Introduction to Operators, Operands and Expressions</td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>Abbreviating Operators</td>
+      <td>A programs that shows to abbreviate operators</td>
+    </tr>
     
     
     
