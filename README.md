@@ -105,6 +105,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Ternary Operator</td>
       <td>Introduction to Ternary Operator/td>
     </tr>
+       <tr>
+      <td>19</td>
+      <td>Fourth Challenge: Operators Precedence</td>
+      <td>Create a program following the instructions/td>
+    </tr>
     
     
     
