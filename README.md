@@ -53,7 +53,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>8</td>
       <td>Float and Double Primitive Types </td>
-      <td>Introduction to the flo at and double Data Types </td>
+      <td>Introduction to the float and double Data Types </td>
     </tr>
     <tr>
       <td>9</td>
