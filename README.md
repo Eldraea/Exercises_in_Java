@@ -85,6 +85,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>If-Then Statement</td>
       <td>Introduction to the If-Then Statement</td>
     </tr>
+    <tr>
+      <td>15</td>
+      <td>Logical and Oerators</td>
+      <td>Introduction to Logical Operators</td>
+    </tr>
     
     
     
