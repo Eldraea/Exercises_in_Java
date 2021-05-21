@@ -87,7 +87,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>15</td>
-      <td>Logical and Oerators</td>
+      <td>Logical and Operators</td>
       <td>Introduction to Logical Operators</td>
     </tr>
     
