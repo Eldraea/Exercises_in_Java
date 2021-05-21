@@ -95,6 +95,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Logical OR Operator</td>
       <td>Introduction to the Logical Operator: OR</td>
     </tr>
+     <tr>
+      <td>17</td>
+      <td>Assignment Operator and "Equals to" Operator</td>
+      <td>A program that shows differences between the assignment operator and the "equals to" operator</td>
+    </tr>
     
     
     
