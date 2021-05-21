@@ -45,6 +45,8 @@ public class Main {
         System.out.println("Long Minimum value = " + myMinLongValue);
         System.out.println("Long Maximum value = " + myMaxLongValue);
 
-
+        short bigShortLiteral = 32_767;
+        int myTotal =( myMinIntValue /2);
+        byte myNeByteValue =
     }
 }
