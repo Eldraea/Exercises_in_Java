@@ -100,6 +100,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Assignment Operator and "Equals to" Operator</td>
       <td>A program that shows differences between the assignment operator and the "equals to" operator</td>
     </tr>
+      <tr>
+      <td>18</td>
+      <td>Ternary Operator</td>
+      <td>Introduction to Ternary Operator/td>
+    </tr>
     
     
     
