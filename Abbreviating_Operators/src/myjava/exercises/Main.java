@@ -3,7 +3,7 @@ main.java
 ---------------------------------------------
 Created by Eldr@e@
 ---------------------------------------------
-A programs that shows to abbreviate operators
+A program that shows to abbreviate operators
 ----------------------------------------------
 Created on: 21/05/2021
 ----------------------------------------------
