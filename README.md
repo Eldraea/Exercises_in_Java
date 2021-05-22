@@ -140,6 +140,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Seventh Challenge: The Speed Converter</td>
       <td>A program that converts kilometers  per hour into miles per hour</td>
     </tr>
+     <tr>
+      <td>26</td>
+      <td>Eight Challenge: The MegaBytes Converter Converter</td>
+      <td>A program that converts kilobytes into megabytes and remaining kilobytes </td>
+    </tr>
     
     
     
