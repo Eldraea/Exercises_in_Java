@@ -134,6 +134,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>24</td>
       <td>Sixth Challenge: More Methods in Java</td>
       <td>Exercise with methods: Determinate the position of a player in the high score table</td>
+    </tr
+    <tr>
+      <td>25</td>
+      <td>Seventh Challenge: The Speed Converter</td>
+      <td>A program that converts kilometers  per hour into miles per hour</td>
     </tr>
     
     
