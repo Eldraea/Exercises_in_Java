@@ -125,6 +125,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifth Challenge</td>
       <td>Introduction to Code Blocks and Challenge</td>
     </tr>
+    <tr>
+      <td>23</td>
+      <td>Methods in Java</td>
+      <td>Introduction to the concept of methods in Java</td>
+    </tr>
     
     
     
