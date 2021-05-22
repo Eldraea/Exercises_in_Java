@@ -155,6 +155,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Tenth Challenge: The Leap Year</td>
       <td>A program that determines if a year is a leap year or not </td>
     </tr>
+    <tr>
+      <td>29</td>
+      <td>Tenth Challenge: The Decimal Comparator</td>
+      <td>A program that determines if two double numbers are the same up to three decimal places</td>
+    </tr>
     
     
     
