@@ -110,6 +110,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fourth Challenge: Operators Precedence</td>
       <td>Create a program following the instructions</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td>KeyWords and Expressions</td>
+      <td>A program that gives examples of expressions</td>
+    </tr>
     
     
     
