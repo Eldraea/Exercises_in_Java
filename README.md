@@ -115,6 +115,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Keywords and Expressions</td>
       <td>A program that gives examples of expressions</td>
     </tr>
+    <tr>
+      <td>21</td>
+      <td>Statements, Whitespaces and Indentation</td>
+      <td>A program that explains the utility of  whitespaces and indentation for statements</td>
+    </tr>
     
     
     
