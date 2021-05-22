@@ -142,8 +142,13 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
      <tr>
       <td>26</td>
-      <td>Eight Challenge: The MegaBytes Converter</td>
+      <td>Eighth Challenge: The MegaBytes Converter</td>
       <td>A program that converts kilobytes into megabytes and remaining kilobytes </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Ninth Challenge: The Barking Dog</td>
+      <td>A program that determines if we have to wake up because of the dog barking </td>
     </tr>
     
     
