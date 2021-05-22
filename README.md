@@ -160,6 +160,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Eleventh Challenge: The Decimal Comparator</td>
       <td>A program that determines if two double numbers are the same up to three decimal places</td>
     </tr>
+    <tr>
+      <td>30</td>
+      <td>Twelfth Challenge: The Equal Sum Checker</td>
+      <td>A program that checks if the addition of the two first numbers given equals to the thrid number given</td>
+    </tr>
     
     
     
