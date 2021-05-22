@@ -157,7 +157,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>29</td>
-      <td>Tenth Challenge: The Decimal Comparator</td>
+      <td>Eleventh Challenge: The Decimal Comparator</td>
       <td>A program that determines if two double numbers are the same up to three decimal places</td>
     </tr>
     
