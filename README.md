@@ -165,6 +165,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twelfth Challenge: The Equal Sum Checker</td>
       <td>A program that checks if the addition of the two first numbers given equals to the thrid number given</td>
     </tr>
+    <tr>
+      <td>31</td>
+      <td>Tthirteenth Challenge: The Teen Sum Checker</td>
+      <td>A program that checks if a number is in range 13 (inclusive) - 19 (inclusive)</td>
+    </tr>
     
     
     
