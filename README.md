@@ -150,6 +150,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Ninth Challenge: The Barking Dog</td>
       <td>A program that determines if we have to wake up because of the dog barking </td>
     </tr>
+    <tr>
+      <td>28</td>
+      <td>Tenth Challenge: The Leap Year</td>
+      <td>A program that determines if a year is a leap year or not </td>
+    </tr>
     
     
     
