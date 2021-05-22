@@ -142,7 +142,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
      <tr>
       <td>26</td>
-      <td>Eight Challenge: The MegaBytes Converter Converter</td>
+      <td>Eight Challenge: The MegaBytes Converter</td>
       <td>A program that converts kilobytes into megabytes and remaining kilobytes </td>
     </tr>
     
