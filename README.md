@@ -112,7 +112,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>20</td>
-      <td>KeyWords and Expressions</td>
+      <td>Keywords and Expressions</td>
       <td>A program that gives examples of expressions</td>
     </tr>
     
