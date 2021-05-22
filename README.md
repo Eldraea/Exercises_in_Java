@@ -133,7 +133,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>24</td>
       <td>Sixth Challenge: More Methods in Java</td>
-      <td>Exercise with methods: Determinate the position of a plaer in the high score table</td>
+      <td>Exercise with methods: Determinate the position of a player in the high score table</td>
     </tr>
     
     
