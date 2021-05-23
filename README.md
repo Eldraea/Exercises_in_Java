@@ -200,6 +200,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Nineteenth Challenge: The Playing cat</td>
       <td>A program that determines whether the cat is playing or not</td>
     </tr>
+    <tr>
+      <td>38</td>
+      <td>Twentieth Challenge: The Switch Statement</td>
+      <td>Introduction to swtich statement then a challenge: a program that determines if a letter is A,B,C,D, E or neither of these</td>
+    </tr>
     
     
   </tbody>
