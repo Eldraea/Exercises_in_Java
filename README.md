@@ -215,6 +215,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-Second Challenge: The Number in Word Challenge</td>
       <td>A program that prints a number in word</td>
     </tr>
+    <tr>
+      <td>41</td>
+      <td>Twenty-Third Challenge: The Number of Days in Month Challenge</td>
+      <td>A program that determine how many days there are in a month accordint to the year</td>
+    </tr>
     
     
   </tbody>
