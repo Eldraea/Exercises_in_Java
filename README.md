@@ -230,6 +230,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-fifth Challenge: The Sum of 3 and 5</td>
       <td>A program that adds the five first number divisible by 3 and 5</td>
     </tr>
+     <tr>
+      <td>44</td>
+      <td>Twenty-sixth Challenge: The Sum Odd Challenge</td>
+      <td>A program that adds odd numbers</td>
+    </tr>
     
     
   </tbody>
