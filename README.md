@@ -175,6 +175,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fourteenth Challenge: Method Overloading</td>
       <td>Introduction to methods overloading in Java and Challenge: A program that converts feets and inches into centimeters</td>
     </tr>
+     <tr>
+      <td>33</td>
+      <td>Fifteenth Challenge: Seconds and Minutes Converter</td>
+      <td>A program that converts minutes and seconds into hours minutes and seconds</td>
+    </tr>
     
     
     
