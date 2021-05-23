@@ -172,7 +172,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
      <tr>
       <td>32</td>
-      <td>Fourteenth Challenge: Method Overloading Challenge</td>
+      <td>Fourteenth Challenge: Method Overloading</td>
       <td>Introduction to methods overloading in Java and Challenge: A program that converts feets and inches into centimeters</td>
     </tr>
     
