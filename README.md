@@ -240,7 +240,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-seventh Challenge: The Even Numbers</td>
       <td>Introduction to while and do-while statement and challenge: a program that displays even numbers</td>
     </tr>
-    
+     <tr>
+      <td>46</td>
+      <td>Twenty-eighth Challenge: The Digit Sum Challenge</td>
+      <td>A program that adds the digit of a number</td>
+    </tr>
     
   </tbody>
   
