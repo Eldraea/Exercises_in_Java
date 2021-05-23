@@ -220,6 +220,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-Third Challenge: The Number of Days in Month Challenge</td>
       <td>A program that determine how many days there are in a month accordint to the year</td>
     </tr>
+    <tr>
+      <td>42</td>
+      <td>Twenty-fourth Challenge: The For Statement</td>
+      <td>Introduction to the for statement and challenge:  a program that gives three prime numbers</td>
+    </tr>
     
     
   </tbody>
