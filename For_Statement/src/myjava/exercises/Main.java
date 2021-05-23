@@ -45,7 +45,7 @@ public class Main {
                     "% is equal to " + String.format("%.2f",calculateInterest(10000,i)));
         }
         int count = 0;
-        for(int i = 0; i< 100; i++)
+        for(int i = 1; i< 100; i++)
         {
             if(isPrime(i))
             {
