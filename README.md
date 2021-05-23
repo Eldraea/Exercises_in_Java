@@ -235,6 +235,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-sixth Challenge: The Sum Odd Challenge</td>
       <td>A program that adds odd numbers</td>
     </tr>
+     <tr>
+      <td>45</td>
+      <td>Twenty-seventh Challenge: The Even Numbers</td>
+      <td>Introduction to while and do-while statement and challenge: a program that displays even numbers</td>
+    </tr>
     
     
   </tbody>
