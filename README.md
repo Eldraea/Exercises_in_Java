@@ -190,7 +190,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Seventeenth Challenge: Minutes to Years and Days Calculator</td>
       <td>A program that converts a duration in minute into years and days</td>
     </tr>
-    
+    <tr>
+      <td>36</td>
+      <td>Eighteenth Challenge: The Equality Printer</td>
+      <td>A program that determines if three numbers are equal or not</td>
+    </tr>
     
     
   </tbody>
