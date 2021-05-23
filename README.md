@@ -205,6 +205,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twentieth Challenge: The Switch Statement</td>
       <td>Introduction to swtich statement then a challenge: a program that determines if a letter is A,B,C,D, E or neither of these</td>
     </tr>
+    <tr>
+      <td>39</td>
+      <td>Twenty-First Challenge: The Day Of the Week Challenge</td>
+      <td>A program that indicates if a day is monday, tuesday... according to the number passed in parameter</td>
+    </tr>
     
     
   </tbody>
