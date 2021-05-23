@@ -210,6 +210,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-First Challenge: The Day Of the Week Challenge</td>
       <td>A program that indicates if a day is monday, tuesday... according to the number passed in parameter</td>
     </tr>
+     <tr>
+      <td>40</td>
+      <td>Twenty-Second Challenge: The Number in Word Challenge</td>
+      <td>A program that prints a number in word</td>
+    </tr>
     
     
   </tbody>
