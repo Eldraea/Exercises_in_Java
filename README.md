@@ -185,6 +185,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixteenth Challenge: Area Calculator</td>
       <td>A program that calculates areas</td>
     </tr>
+    <tr>
+      <td>35</td>
+      <td>Seventeenth Challenge: Minutes to Years and Days Calculator</td>
+      <td>A program that converts a duration in minute into years and days</td>
+    </tr>
     
     
     
