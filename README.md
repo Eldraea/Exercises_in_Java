@@ -195,6 +195,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Eighteenth Challenge: The Equality Printer</td>
       <td>A program that determines if three numbers are equal or not</td>
     </tr>
+     <tr>
+      <td>37</td>
+      <td>Nineteenth Challenge: The Playing cat</td>
+      <td>A program that determines whether the cat is playing or not</td>
+    </tr>
     
     
   </tbody>
