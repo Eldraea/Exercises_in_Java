@@ -225,6 +225,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-fourth Challenge: The For Statement</td>
       <td>Introduction to the for statement and challenge:  a program that gives three prime numbers</td>
     </tr>
+     <tr>
+      <td>43</td>
+      <td>Twenty-fifth Challenge: The Sum of 3 and 5</td>
+      <td>A program that adds the five first number divisible by 3 and 5</td>
+    </tr>
     
     
   </tbody>
