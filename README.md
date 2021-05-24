@@ -253,7 +253,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>48</td>
       <td>Thirtieth Challenge: The First and Last Digit Sum</td>
-      <td>A program that adds the first and the last digit of a number/td>
+      <td>A program that adds the first and the last digit of a number</td>
     </tr>
     
   </tbody>
