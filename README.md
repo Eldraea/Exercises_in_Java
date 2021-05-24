@@ -280,6 +280,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-Fifth Challenge: The All Factors Challenge</td>
       <td>A program that prints all the factors of a number</td>
     </tr>
+     <tr>
+      <td>54</td>
+      <td>Thirty-Sixth Challenge: The Perfect Number Challenge</td>
+      <td>A program that determines whether a number is perfect or not</td>
+    </tr>
     
   </tbody>
   
