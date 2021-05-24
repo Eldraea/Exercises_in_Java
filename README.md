@@ -260,6 +260,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-First Challenge: The Even Digit Sum</td>
       <td>A program that adds the even digits within a number</td>
     </tr>
+      <tr>
+      <td>50</td>
+      <td>Thirty-Second Challenge: The Shared Digit Sum</td>
+      <td>A program that determines if two numbers share the same digit</td>
+    </tr>
     
   </tbody>
   
