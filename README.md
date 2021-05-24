@@ -267,7 +267,12 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
      <tr>
       <td>51</td>
-      <td>Thirty-Third Challenge: The Last Digit Checker</td>
+      <td>Thirty-Third Challenge: The Last Digit Checker Challenge</td>
+      <td>A program that checks if at least two numbers out of three share the same last digit</td>
+    </tr>
+     <tr>
+      <td>52</td>
+      <td>Thirty-Fourth Challenge: The Greatest Common Divisor Challenge</td>
       <td>A program that checks if at least two numbers out of three share the same last digit</td>
     </tr>
     
