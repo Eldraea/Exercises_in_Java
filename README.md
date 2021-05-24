@@ -255,6 +255,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirtieth Challenge: The First and Last Digit Sum</td>
       <td>A program that adds the first and the last digit of a number</td>
     </tr>
+      <tr>
+      <td>49</td>
+      <td>Thirty-First Challenge: The Even Digit Sum</td>
+      <td>A program that adds the even digits within a number</td>
+    </tr>
     
   </tbody>
   
