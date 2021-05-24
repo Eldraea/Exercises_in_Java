@@ -292,7 +292,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>56</td>
-      <td>Fifty-Sixth Progrram: Parsing Values From a String</td>
+      <td>Fifty-Sixth Program: Parsing Values From a String</td>
       <td>Introduction to the parsed values from a string</td>
     </tr>
     
