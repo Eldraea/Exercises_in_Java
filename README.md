@@ -273,7 +273,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>52</td>
       <td>Thirty-Fourth Challenge: The Greatest Common Divisor Challenge</td>
-      <td>A program that checks if at least two numbers out of three share the same last digit</td>
+      <td>A program that determines the greatest common divisor of two numbers</td>
     </tr>
     
   </tbody>
