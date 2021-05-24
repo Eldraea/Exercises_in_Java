@@ -285,6 +285,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-Sixth Challenge: The Perfect Number Challenge</td>
       <td>A program that determines whether a number is perfect or not</td>
     </tr>
+    <tr>
+      <td>55</td>
+      <td>Thirty-Seventh Challenge: The Number in Words Challenge</td>
+      <td>A program that prints every digit of a number in words</td>
+    </tr>
     
   </tbody>
   
