@@ -298,7 +298,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>57</td>
       <td>Thirty-Eighth Challenge: The Flour Pack Problem Challenge</td>
-      <td>A program that determines if the flour can be packed with a bigbags and smallbags or not</td>
+      <td>A program that determines if the flour can be packed with bigbags and smallbags or not</td>
     </tr>
     
   </tbody>
