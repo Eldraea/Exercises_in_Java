@@ -295,6 +295,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Sixth Program: Parsing Values From a String</td>
       <td>Introduction to the parsed values from a string</td>
     </tr>
+    <tr>
+      <td>57</td>
+      <td>Thirty-Eighth Challenge Program: The Flour Pack Problem Challenge</td>
+      <td>A program that determines if the flour can be packed with a bigbags and smallbags or not</td>
+    </tr>
     
   </tbody>
   
