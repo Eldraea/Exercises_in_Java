@@ -245,6 +245,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-eighth Challenge: The Digit Sum Challenge</td>
       <td>A program that adds the digit of a number</td>
     </tr>
+     <tr>
+      <td>47</td>
+      <td>Twenty-Ninth Challenge: The Number Palindrome Challenge</td>
+      <td>A program that determines whether a number is a palindrome number or not</td>
+    </tr>
     
   </tbody>
   
