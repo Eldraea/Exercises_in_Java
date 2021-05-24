@@ -250,6 +250,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Twenty-Ninth Challenge: The Number Palindrome Challenge</td>
       <td>A program that determines whether a number is a palindrome number or not</td>
     </tr>
+     <tr>
+      <td>48</td>
+      <td>Thirtieth Challenge: The First and Laqt Digit Sum</td>
+      <td>A program that adds the first and the last digit of a number/td>
+    </tr>
     
   </tbody>
   
