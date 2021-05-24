@@ -290,6 +290,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-Seventh Challenge: The Number in Words Challenge</td>
       <td>A program that prints every digit of a number in words</td>
     </tr>
+    <tr>
+      <td>56</td>
+      <td>Fifty-Sixth Progrram: Parsing Values From a String</td>
+      <td>Introduction to the parsed values from a string</td>
+    </tr>
     
   </tbody>
   
