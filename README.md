@@ -275,6 +275,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-Fourth Challenge: The Greatest Common Divisor Challenge</td>
       <td>A program that determines the greatest common divisor of two numbers</td>
     </tr>
+     <tr>
+      <td>53</td>
+      <td>Thirty-Fifth Challenge: The All Factors Challenge</td>
+      <td>A program that prints all the factors of a number</td>
+    </tr>
     
   </tbody>
   
