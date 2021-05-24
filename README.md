@@ -265,6 +265,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Thirty-Second Challenge: The Shared Digit Sum</td>
       <td>A program that determines if two numbers share the same digit</td>
     </tr>
+     <tr>
+      <td>51</td>
+      <td>Thirty-Third Challenge: The Last Digit Checker</td>
+      <td>A program that checks if at least two numbers out of three share the same last digit</td>
+    </tr>
     
   </tbody>
   
