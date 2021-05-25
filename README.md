@@ -350,6 +350,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Seventh Challenge: The Constructors Challenge</td>
       <td>A program that creates and tests the constructors of two classes VipCustomer and BankAccount</td>
     </tr>
+    <tr>
+      <td>68</td>
+      <td>Forty-Eighth Challenge: The Wall Challenge</td>
+      <td>A program that creates and tests the constructors of a class Wall</td>
+    </tr>
     
   </tbody>
   </table>
