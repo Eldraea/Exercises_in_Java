@@ -26,6 +26,7 @@ public class Main {
 
         System.out.println("Enter your year of birth:");
         boolean hasNextInt= scanner.hasNextInt();
+      
 
 
         if(hasNextInt){
