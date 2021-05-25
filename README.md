@@ -355,6 +355,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Eighth Challenge: The Wall Challenge</td>
       <td>A program that creates and tests the constructors of a class Wall</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>Forty-Ninth Challenge: The Point Challenge</td>
+      <td>A program that calculates the distance between two points using a class </td>
+    </tr>
     
   </tbody>
   </table>
