@@ -303,7 +303,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>58</td>
       <td>Thirty-Ninth Challenge: The Largest Prime Number Challenge</td>
-      <td>A program that determines the largest prime factor of a number/td>
+      <td>A program that determines the largest prime factor of a number</td>
     </tr>
     
   </tbody>
