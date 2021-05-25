@@ -306,7 +306,7 @@ A big thank you to Tim Buchalka (Udemy)
       <td>A program that determines the largest prime factor of a number</td>
     </tr>
      <tr>
-      <td>58</td>
+      <td>59</td>
       <td>Fourtieth Challenge: The Diagonal Stars Challenge</td>
       <td>A program thatprints a rectagle of stars with diagonals</td>
     </tr>
