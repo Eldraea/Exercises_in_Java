@@ -365,5 +365,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fiftieth Challenge: The Carpet Cost Calculator Challenge</td>
       <td>A program that calculates the cost of a carpet according to the area of the floor using three classes </td>
     </tr>
+    <tr>
+      <td>71</td>
+      <td>Fifty-First Challenge: The Complex Operations Challenge</td>
+      <td>A program that adds or subtracts complex numbers using a class</td>
+    </tr>
   </tbody>
   </table>
