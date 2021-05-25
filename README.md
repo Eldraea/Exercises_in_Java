@@ -345,6 +345,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Sixth Challenge: The Person Challenge</td>
       <td>A program that gives the fullnameof a person and determines whether this person is a teen or not using a class</td>
     </tr>
+     <tr>
+      <td>67</td>
+      <td>Forty-Seventh Challenge: The Constructors Challenge</td>
+      <td>Create and test the constructors of two classes VipCustomer and BankAccount</td>
+    </tr>
     
   </tbody>
   </table>
