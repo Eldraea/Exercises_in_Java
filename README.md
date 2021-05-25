@@ -360,6 +360,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Ninth Challenge: The Point Challenge</td>
       <td>A program that calculates the distance between two points using a class </td>
     </tr>
-    
+    <tr>
+      <td>70</td>
+      <td>Fiftieth Challenge: The Carpet Cost Calculator Challenge</td>
+      <td>A program that calculates the cost of a carpet according to the area of the floor using three classes </td>
+    </tr>
   </tbody>
   </table>
