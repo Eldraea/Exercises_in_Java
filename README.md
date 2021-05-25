@@ -340,6 +340,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Fifth Challenge: The Sum Calculator Challenge</td>
       <td>A program that adds, subtracts, multiplies, and divides two numbers using a class</td>
     </tr>
+     <tr>
+      <td>66</td>
+      <td>Forty-Sixth Challenge: The Person Challenge</td>
+      <td>A program that gives the fullnameof a person and determines whether this person is a teen or not using a class</td>
+    </tr>
     
   </tbody>
   </table>
