@@ -325,6 +325,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Third Challenge: The Input Calcuulator Challenge</td>
       <td>A program that prints the sum and the average of the numbers entered by the user</td>
     </tr>
+     <tr>
+      <td>63</td>
+      <td>Forty-Third Challenge: The Paint Job Challenge</td>
+      <td>A program that determines how many buckets of paint Bob the painter has to buy before going to work</td>
+    </tr>
     
   </tbody>
   </table>
