@@ -327,7 +327,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
      <tr>
       <td>63</td>
-      <td>Forty-Third Challenge: The Paint Job Challenge</td>
+      <td>Forty-Fourth Challenge: The Paint Job Challenge</td>
       <td>A program that determines how many buckets of paint Bob the painter has to buy before going to work</td>
     </tr>
     
