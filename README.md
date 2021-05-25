@@ -308,7 +308,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>59</td>
       <td>Fourtieth Challenge: The Diagonal Stars Challenge</td>
-      <td>A program thatprints a rectagle of stars with diagonals</td>
+      <td>A program that prints a rectagle of stars with diagonals</td>
     </tr>
      <tr>
       <td>60</td>
