@@ -335,6 +335,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Fourth Program: Introduction to classes</td>
       <td>A program that sets the model of a car</td>
     </tr>
+     <tr>
+      <td>65</td>
+      <td>Forty-Fifth Challenge: The Sum Calculator Challenge</td>
+      <td>A program that adds, subtracts, multiplies, and divides two numbers using a class</td>
+    </tr>
     
   </tbody>
   </table>
