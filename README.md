@@ -320,6 +320,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-Second Challenge: The Min and Max Challenge</td>
       <td>A program that prints the maximum and the minimum among values entered by the user</td>
     </tr>
+     <tr>
+      <td>62</td>
+      <td>Forty-Third Challenge: The Input Calcuulator Challenge</td>
+      <td>A program that prints the sum and the average of the numbers entered by the user</td>
+    </tr>
     
   </tbody>
   </table>
