@@ -343,7 +343,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>66</td>
       <td>Forty-Sixth Challenge: The Person Challenge</td>
-      <td>A program that gives the fullnameof a person and determines whether this person is a teen or not using a class</td>
+      <td>A program that gives the full name of a person and determines whether this person is a teen or not using a class</td>
     </tr>
      <tr>
       <td>67</td>
