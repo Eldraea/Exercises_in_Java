@@ -315,6 +315,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Forty-First Challenge: The Reading Input User Challenge</td>
       <td>Introduction to user input and a challenge: A program that sums 10 numbers entered by the user</td>
     </tr>
+     <tr>
+      <td>61</td>
+      <td>Forty-Second Challenge: The Min and Max Challenge</td>
+      <td>A program that prints the maximum and the minimum among values entered by the user</td>
+    </tr>
     
   </tbody>
   </table>
