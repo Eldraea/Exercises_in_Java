@@ -310,6 +310,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fourtieth Challenge: The Diagonal Stars Challenge</td>
       <td>A program thatprints a rectagle of stars with diagonals</td>
     </tr>
+     <tr>
+      <td>60</td>
+      <td>Forty-First Challenge: The Reading Input User Challenge</td>
+      <td>Introduction to user input and a challenge: A program that sums 10 numbers entered by the user</td>
+    </tr>
     
   </tbody>
-  
+  </table>
