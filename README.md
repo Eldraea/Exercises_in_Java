@@ -382,7 +382,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>74</td>
-      <td>Fifty-Fouth Challenge: The Pool Area Challenge</td>
+      <td>Fifty-Fourth Challenge: The Pool Area Challenge</td>
       <td> A program that calculates the volume of a cuboid based on the area of a rectangle using classes</td>
     </tr>
   </tbody>
