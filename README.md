@@ -380,5 +380,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Third Challenge: The Cylinder Challenge</td>
       <td> A program that calculates the volume of a cylinder based on the area of a circle using classes</td>
     </tr>
+    <tr>
+      <td>74</td>
+      <td>Fifty-Fouth Challenge: The Pool Area Challenge</td>
+      <td> A program that calculates the volume of a cuboid based on the area of a rectangle using classes</td>
+    </tr>
   </tbody>
   </table>
