@@ -413,14 +413,19 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
       <tr>
       <td>80</td>
-      <td>Seventy-Ninth Challenge: The Polymorphism Challenge 1</td>
+      <td>Fifty-Ninth Challenge: The Polymorphism Challenge 1</td>
       <td> A program that overrides methods using classes</td>
     </tr>
       </tr>
       <tr>
       <td>81</td>
-      <td>Eightieth Challenge: The Polymorphism Challenge 2</td>
+      <td>Sixtieth Challenge: The Polymorphism Challenge 2</td>
       <td> A program that overrides methods using classes</td>
+    </tr>
+     <tr>
+      <td>82</td>
+      <td>Sixty-First  Challenge: The Bill's Burger Challenge</td>
+      <td> A program that gives a burger bill using classes</td>
     </tr>
     
   </tbody>
