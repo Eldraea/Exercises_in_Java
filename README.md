@@ -427,6 +427,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-First  Challenge: The Bill's Burger Challenge</td>
       <td> A program that gives a burger bill using classes</td>
     </tr>
+     <tr>
+      <td>83</td>
+      <td>Sixty-Second  Challenge: The Sorted Array Challenge</td>
+      <td>Intoduction to arrays and a challenge: A program that sorts an array in descending order</td>
+    </tr>
     
   </tbody>
   </table>
