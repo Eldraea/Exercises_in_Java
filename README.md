@@ -370,5 +370,15 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-First Challenge: The Complex Operations Challenge</td>
       <td>A program that adds or subtracts complex numbers using a class</td>
     </tr>
+     <tr>
+      <td>72</td>
+      <td>Fifty-Second Challenge: Introduction to Inheritance</td>
+      <td> Introduction to inheritance and a challenge :A program that creates specific cars using classes/td>
+    </tr>
+     <tr>
+      <td>72</td>
+      <td>Fifty-Third Challenge: The Cylinder Challenge</td>
+      <td> A program that calculates the volume of a cylinder based on the area of a circle using classes/td>
+    </tr>
   </tbody>
   </table>
