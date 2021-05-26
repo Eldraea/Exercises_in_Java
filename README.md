@@ -400,5 +400,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Seventh Challenge: Introduction to Encapsulation</td>
       <td>Introduction to Encapsulation and a challenge: A program that simulates a printer</td>
     </tr>
+     <tr>
+      <td>78</td>
+      <td>Fifty-Eighth Challenge: The Encapsulation Challenge</td>
+      <td> A program that simulates a printer</td>
+    </tr>
   </tbody>
   </table>
