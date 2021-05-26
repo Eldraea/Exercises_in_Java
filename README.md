@@ -390,5 +390,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Fifth Challenge: Composition Intoduction</td>
       <td>Introduction to Composition and a challenge: A program that creates a room</td>
     </tr>
+    <tr>
+      <td>76</td>
+      <td>Fifty-Sixth Challenge: The Composition Challenge</td>
+      <td> A program that creates a room using classes</td>
+    </tr>
   </tbody>
   </table>
