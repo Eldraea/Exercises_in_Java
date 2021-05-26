@@ -376,9 +376,9 @@ A big thank you to Tim Buchalka (Udemy)
       <td> Introduction to inheritance and a challenge :A program that creates specific cars using classes/td>
     </tr>
      <tr>
-      <td>72</td>
+      <td>73</td>
       <td>Fifty-Third Challenge: The Cylinder Challenge</td>
-      <td> A program that calculates the volume of a cylinder based on the area of a circle using classes/td>
+      <td> A program that calculates the volume of a cylinder based on the area of a circle using classes</td>
     </tr>
   </tbody>
   </table>
