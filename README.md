@@ -432,6 +432,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Second  Challenge: The Sorted Array Challenge</td>
       <td>Intoduction to arrays and a challenge: A program that sorts an array in descending order</td>
     </tr>
+     <tr>
+      <td>84</td>
+      <td>Sixty-Third  Challenge: The Minimum Element Challenge</td>
+      <td> A program that determines the minimum value in an array</td>
+    </tr>
     
   </tbody>
   </table>
