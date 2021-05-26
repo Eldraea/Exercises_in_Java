@@ -385,5 +385,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Fourth Challenge: The Pool Area Challenge</td>
       <td> A program that calculates the volume of a cuboid based on the area of a rectangle using classes</td>
     </tr>
+    <tr>
+      <td>75</td>
+      <td>Fifty-Fifth Challenge: Composition Intoduction</td>
+      <td>Introduction to Composition and a challenge: A program that creates a room</td>
+    </tr>
   </tbody>
   </table>
