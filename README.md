@@ -395,5 +395,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Fifty-Sixth Challenge: The Composition Challenge</td>
       <td> A program that creates a room using classes</td>
     </tr>
+     <tr>
+      <td>77</td>
+      <td>Fifty-Seventh Challenge: Introduction to Encapsulation</td>
+      <td>Introduction to Encapsulation and a challenge: A program that simulates a printer</td>
+    </tr>
   </tbody>
   </table>
