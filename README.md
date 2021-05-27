@@ -430,7 +430,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>83</td>
       <td>Sixty-Second  Challenge: The Sorted Array Challenge</td>
-      <td>Intoduction to arrays and a challenge: A program that sorts an array in descending order</td>
+      <td>Introduction to arrays and a challenge: A program that sorts an array in descending order</td>
     </tr>
      <tr>
       <td>84</td>
