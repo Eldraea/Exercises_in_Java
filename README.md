@@ -447,5 +447,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Eighty-Sixth Program : Intoduction to Lists and ArrayLists</td>
       <td> A program that writes a grocery list</td>
     </tr>
+    <tr>
+      <td>87</td>
+      <td>Sixty-Fifth Challenge : The Mobile Phone Challenge</td>
+      <td> A program that implements a list of contacts into a mobile phone using classes and ArrayLists</td>
+    </tr>
   </tbody>
   </table>
