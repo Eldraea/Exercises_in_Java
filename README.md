@@ -437,6 +437,11 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Third  Challenge: The Minimum Element Challenge</td>
       <td> A program that determines the minimum value in an array</td>
     </tr>
+     <tr>
+      <td>85</td>
+      <td>Sixty-Fourth  Challenge: The Reversed Array Challenge</td>
+      <td> A program that reverses an array</td>
+    </tr>
     
   </tbody>
   </table>
