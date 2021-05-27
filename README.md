@@ -442,6 +442,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Fourth  Challenge: The Reversed Array Challenge</td>
       <td> A program that reverses an array</td>
     </tr>
-    
+     <tr>
+      <td>86</td>
+      <td>Eighty-Sixth Program : Intoduction to Lists and ArrayLists</td>
+      <td> A program that writes a grocery list</td>
+    </tr>
   </tbody>
   </table>
