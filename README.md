@@ -472,5 +472,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Ninety-First Program :Introduction to Interfaces</td>
       <td> A program that creates functionnalities for a desk phone and a mobile phone </td>
     </tr>
+     <tr>
+      <td>92</td>
+      <td>Seventy-Eighth Challenge :The Interfaces Challenge</td>
+      <td> A program that saves a player's data and a monster's data into a list using interfaces</td>
+    </tr>
   </tbody>
   </table>
