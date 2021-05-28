@@ -457,5 +457,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Sixth Challenge : Introduction to Autoboxing and Unboxing and The Bank Challenge</td>
       <td> A program that implements a bank system using classes and autoboxing</td>
     </tr>
+    <tr>
+      <td>89</td>
+      <td>Eighty-Ninth Program :Introduction to Linked Lists</td>
+      <td> A program that browses a list of destinations using linked lists</td>
+    </tr>
   </tbody>
   </table>
