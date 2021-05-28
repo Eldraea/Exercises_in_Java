@@ -454,7 +454,7 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>88</td>
-      <td>Sixty-Sixth Challenge : Introduction to Autoboxing and Un boxing and The Bank Challenge</td>
+      <td>Sixty-Sixth Challenge : Introduction to Autoboxing and Unboxing and The Bank Challenge</td>
       <td> A program that implements a bank system using classes and autoboxing</td>
     </tr>
   </tbody>
