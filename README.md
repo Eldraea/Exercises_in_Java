@@ -6,7 +6,7 @@ A big thank you to Tim Buchalka (Udemy)
 
 <p>Here is the list of the exercises I have been doing in this repository:
 
-<table style ="background-color: blue;">
+<table>
   <thead>
     <tr>
        <th>id</th>
