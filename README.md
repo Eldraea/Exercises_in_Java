@@ -6,7 +6,7 @@ A big thank you to Tim Buchalka (Udemy)
 
 <p>Here is the list of the exercises I have been doing in this repository:
 
-<table style ="font color: blue;">
+<table style ="background-color: blue;">
   <thead>
     <tr>
        <th>id</th>
@@ -490,7 +490,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>95</td>
       <td>Ninety-Fifth Program :Introduction to Abstract classes</td>
-      <td> A program that implements classes of animalst</td>
+      <td> A program that implements classes of animals</td>
     </tr>
   </tbody>
   </table>
