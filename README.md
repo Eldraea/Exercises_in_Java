@@ -462,5 +462,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Eighty-Ninth Program :Introduction to Linked Lists</td>
       <td> A program that browses a list of destinations using linked lists</td>
     </tr>
+    <tr>
+      <td>90</td>
+      <td>Sixty-Seventh Challenge :The Playlist Challenge</td>
+      <td> A program that implements a playlist of songs using ArrayLists and LinkedLists</td>
+    </tr>
   </tbody>
   </table>
