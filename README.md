@@ -452,5 +452,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Sixty-Fifth Challenge : The Mobile Phone Challenge</td>
       <td> A program that implements a list of contacts into a mobile phone using classes and ArrayLists</td>
     </tr>
+    <tr>
+      <td>88</td>
+      <td>Sixty-Sixth Challenge : The Bank Challenge</td>
+      <td> A program that implements a bank system</td>
+    </tr>
   </tbody>
   </table>
