@@ -89,6 +89,7 @@ public class Main {
         albums.get(0).addToPlaylist("You can't do it right", playlist);
         albums.get(0).addToPlaylist("Holy man", playlist);
         albums.get(0).addToPlaylist("Speed king", playlist); //Does not exist
+        albums.get(0).addToPlaylist(1, playlist);
         albums.get(0).addToPlaylist(9, playlist);
         albums.get(1).addToPlaylist(3, playlist);
         albums.get(1).addToPlaylist(2, playlist);

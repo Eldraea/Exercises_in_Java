@@ -52,10 +52,10 @@ public class Album {
     public boolean addToPlaylist(int trackNumberOfTheSong, LinkedList<Song> thePlaylist)
     {
         ListIterator<Song> i = thePlaylist.listIterator();
-        if(trackNumberOfTheSong >= songs.size())
+        if(trackNumberOfTheSong > songs.size() || trackNumberOfTheSong <= 0)
             return false;
         else
-            addToPlaylist(songs.get(trackNumberOfTheSong).getTitle(), thePlaylist);
+            addToPlaylist(songs.get(trackNumberOfTheSong-1).getTitle(), thePlaylist);
             return true;
 
     }
