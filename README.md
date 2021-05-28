@@ -477,5 +477,15 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Seventy-Eighth Challenge :The Interfaces Challenge</td>
       <td> A program that saves a player's data and a monster's data into a list using interfaces</td>
     </tr>
+     <tr>
+      <td>93</td>
+      <td>Ninety-Fourth Program :Introduction to Inner classes</td>
+      <td> A program that implements a geabox and a button using inner classes</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>Seventy-Ninth Challenge :The Playlist Challenge</td>
+      <td> A program that modifies our Playlist Challenge using an inner class istead of using an ArrayList</td>
+    </tr>
   </tbody>
   </table>
