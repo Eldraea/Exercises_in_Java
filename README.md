@@ -492,5 +492,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Ninety-Fifth Program :Introduction to Abstract classes</td>
       <td> A program that implements classes of animals</td>
     </tr>
+    <tr>
+      <td>96</td>
+      <td>Seventy-Eighth Challenge :The Abstract classes Challenge</td>
+      <td> A program that implements a tree node using abstract classes</td>
+    </tr>
   </tbody>
   </table>
