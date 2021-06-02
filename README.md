@@ -499,8 +499,13 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>97</td>
-      <td>Ninety-Seventh :Introdution to Generics</td>
+      <td>Ninety-Seventh Program :Introdution to Generics</td>
       <td> A program that creates Sport Teams</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>Ninety-Eighth Program :Introdution to Collections</td>
+      <td> A program that creates a theatre</td>
     </tr>
   </tbody>
   </table>
