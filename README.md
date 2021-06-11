@@ -510,7 +510,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>99</td>
       <td>Seventy-Ninth Challenge:The Adventure Game</td>
-      <td> A mini Colossal Cav Adventure</td>
+      <td> A mini Colossal Cave Adventure</td>
     </tr>
   </tbody>
   </table>
