@@ -517,5 +517,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Hundredth Program: Introduction to Sets and Hashsets</td>
       <td>Introduction to Sets and HashSets</td>
     </tr>
+     <tr>
+      <td>101</td>
+      <td>Eightieth Challenge: The Set Challenge</td>
+      <td>A program that implements a solar system</td>
+    </tr>
   </tbody>
   </table>
