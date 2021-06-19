@@ -522,5 +522,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Eightieth Challenge: The Set Challenge</td>
       <td>A program that implements a solar system</td>
     </tr>
+    <tr>
+      <td>102</td>
+      <td>Hundred-Second Program: Introduction to Sorted Collections</td>
+      <td>Introduction to Sorted Collections</td>
+    </tr>
   </tbody>
   </table>
