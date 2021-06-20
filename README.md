@@ -527,5 +527,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Hundred-Second Program: Introduction to Sorted Collections</td>
       <td>Introduction to Sorted Collections</td>
     </tr>
+    <tr>
+      <td>103</td>
+      <td>Eighty-First Challenge: The Sorted Collections Chahllenge</td>
+      <td>A progeams that improve the Sorted Collections Program</td>
+    </tr>
   </tbody>
   </table>
