@@ -530,7 +530,7 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>103</td>
       <td>Eighty-First Challenge: The Sorted Collections Chahllenge</td>
-      <td>A progeams that improve the Sorted Collections Program</td>
+      <td>A programs that improve the Sorted Collections Program</td>
     </tr>
   </tbody>
   </table>
