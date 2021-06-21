@@ -529,8 +529,13 @@ A big thank you to Tim Buchalka (Udemy)
     </tr>
     <tr>
       <td>103</td>
-      <td>Eighty-First Challenge: The Sorted Collections Chahllenge</td>
+      <td>Eighty-First Challenge: The Sorted Collections Challenge</td>
       <td>A programs that improve the Sorted Collections Program</td>
+    </tr>
+     <tr>
+      <td>104</td>
+      <td>Hundred-Fourth Program: Introduction to JavaFX</td>
+      <td>A programs that opens a new window called Hello World</td>
     </tr>
   </tbody>
   </table>
