@@ -535,7 +535,7 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>104</td>
       <td>Hundred-Fourth Program: Introduction to JavaFX</td>
-      <td>A program that opens a new window called Hello World and displays "Welcome to JavaFX!! in yellow color</td>
+      <td>A program that opens a new window called Hello World and displays "Welcome to JavaFX!!" in yellow color</td>
     </tr>
      <tr>
       <td>105</td>
