@@ -535,7 +535,12 @@ A big thank you to Tim Buchalka (Udemy)
      <tr>
       <td>104</td>
       <td>Hundred-Fourth Program: Introduction to JavaFX</td>
-      <td>A programs that opens a new window called Hello World</td>
+      <td>A programs that opens a new window called Hello World and displays "Welcome to JavaFX!! in yellow color</td>
+    </tr>
+     <tr>
+      <td>105</td>
+      <td>Hundred-Fifth Program: Introduction to GridPane Layout</td>
+      <td>A programs that opens a new window called Hello World and displays five buttons and a text area</td>
     </tr>
   </tbody>
   </table>
