@@ -530,17 +530,17 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>103</td>
       <td>Eighty-First Challenge: The Sorted Collections Challenge</td>
-      <td>A programs that improve the Sorted Collections Program</td>
+      <td>A program that improve the Sorted Collections Program</td>
     </tr>
      <tr>
       <td>104</td>
       <td>Hundred-Fourth Program: Introduction to JavaFX</td>
-      <td>A programs that opens a new window called Hello World and displays "Welcome to JavaFX!! in yellow color</td>
+      <td>A program that opens a new window called Hello World and displays "Welcome to JavaFX!! in yellow color</td>
     </tr>
      <tr>
       <td>105</td>
       <td>Hundred-Fifth Program: Introduction to GridPane Layout</td>
-      <td>A programs that opens a new window called Hello World and displays five buttons and a text area</td>
+      <td>A program that opens a new window called Hello World and displays five buttons and a text area</td>
     </tr>
   </tbody>
   </table>
