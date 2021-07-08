@@ -542,5 +542,10 @@ A big thank you to Tim Buchalka (Udemy)
       <td>Hundred-Fifth Program: Introduction to GridPane Layout</td>
       <td>A program that opens a new window called Hello World and displays five buttons and a text area</td>
     </tr>
+    <tr>
+      <td>106</td>
+      <td>Hundred-Sixth Program: Introduction to BorderPane Layout</td>
+      <td>A program that dispalys text on the left, the center and the top of the window /td>
+    </tr>
   </tbody>
   </table>
