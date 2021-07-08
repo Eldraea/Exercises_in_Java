@@ -545,7 +545,12 @@ A big thank you to Tim Buchalka (Udemy)
     <tr>
       <td>106</td>
       <td>Hundred-Sixth Program: Introduction to BorderPane Layout</td>
-      <td>A program that dispalys text on the left, the center and the top of the window /td>
+      <td>A program that displays text on the left, the center and the top of the window /td>
+    </tr>
+     <tr>
+      <td>107</td>
+      <td>Hundred-Seventh Program: Introduction to OtherLayout</td>
+      <td>A program that displays buttons with TilePane /td>
     </tr>
   </tbody>
   </table>
